@@ -1,9 +1,24 @@
 <rss version="2.0">
 <channel>
 <item>
-<title>Notification</title>
-<link>https://jovvaan.000webhostapp.com/index.html</link>
-<description>My cv</description>
+<title>Home</title>
+<link>https://jovan112.github.io/jovanvicentijeviic.github.io/index.html</link>
+<description>Stay updated with the latest news and offers from Ftiness gym. Discover new programs, events, and fitness tips to help you stay on track with your wellness journey.</description>
+</item>
+<item>
+<title>Price list</title>
+<link>https://jovan112.github.io/jovanvicentijeviic.github.io/pages/price-list.html</link>
+<description>Get the latest updates on our gym membership pricing, special offers, and package deals at Fitness gym. Stay informed about the best fitness plans that suit your needs. </description>
+</item>
+<item>
+<title>Contact</title>
+<link>https://jovan112.github.io/jovanvicentijeviic.github.io/pages/contact.html</link>
+<description>Connected with Fitness gym. Stay updated on our contact information, hours of operation, and how you can reach out to us for support and inquiries. </description>
+</item>
+<item>
+<title>Author</title>
+<link>https://jovan112.github.io/jovanvicentijeviic.github.io/pages/author.html</link>
+<description>Learn more about the vision and expertise behind Fitness gym. Stay updated with personal insights, fitness philosophies, and the journey that shaped our approach to wellness.</description>
 </item>
 </channel>
 </rss>
